@@ -1,0 +1,6 @@
+public class GeometryLabTest { 
+    public static void main (String [] args) {
+        GeometryLab Q = new GeometryLab();
+        System.out.println(geo.f(2,3));
+    }
+}
